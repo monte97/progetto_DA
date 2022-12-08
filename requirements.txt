@@ -1,6 +1,6 @@
 backcall==0.1.0
 catboost==0.14.2
-certifi==2019.3.9
+certifi==2022.12.7
 chardet==3.0.4
 colorama==0.4.1
 ConfigSpace==0.4.10
